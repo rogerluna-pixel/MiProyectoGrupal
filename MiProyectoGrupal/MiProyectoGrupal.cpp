@@ -2,10 +2,10 @@
 
 using namespace System;
 
-int main(array<System::String ^> ^args)
+int main(array<System::String^>^ args)
 {
-    return 0;
-}
+	return 0;
+};
 
 <<<<<<< HEAD
 public ref class multiplicar {
@@ -23,7 +23,6 @@ public ref class sumar{
     int a, b;
 	int sumar_numeros(int a, int b) {
 		return a + b;
-	}
+	};
 
 }
->>>>>>> 40084169e7df1703bac1408dc96e78baaf257db8
