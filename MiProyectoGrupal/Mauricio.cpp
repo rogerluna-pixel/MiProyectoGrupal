@@ -10,7 +10,7 @@ public ref	class mauricio {
 			private:
 				int codigo;
 				int age;
-				String "facultad";
+				String^ "facultad";
 
 
 			};
